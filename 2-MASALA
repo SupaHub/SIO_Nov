@@ -1,0 +1,23 @@
+Vasya internetda ko‘p odamlar bir so‘z ichida katta va kichik harflarni aralashtirib yozayotganidan juda hafa. 
+Shu sababli, u sevimli brauzeri uchun bir kengaytma yaratishga qaror qildi. 
+
+Bu kengaytma har bir so‘zdagi harflarni shunday o‘zgartiradiki, so‘z yoki faqat kichik harflardan yoki aksincha, faqat katta harflardan iborat bo‘ladi. 
+Bunda, so‘zda imkon qadar kam harflar o‘zgartirilishi kerak. 
+
+Masalan, HoUse so‘zi house bilan almashtiriladi, ViP esa VIP bilan almashtiriladi. 
+Agar bir so‘zda katta va kichik harflar teng miqdorda bo‘lsa, undagi barcha harflar kichik qilib o‘zgartirilishi kerak. 
+
+Masalan, maTRIx so‘zi matrix bilan almashtiriladi. 
+Sizdan berilgan so‘zga yuqoridagi qoidalarga muvofiq ishlov berish so‘ralmoqda.
+
+INPUT
+Birinchi qatorda s so‘zi berilgan — u katta va kichik lotin harflaridan iborat bo‘lib, uzunligi 1 dan 100 gacha.
+
+OUTPUT
+Kiritilgan so‘z s’da katta harflar soni kichik harflar sonidan ko‘p bo‘lsa, so‘zni katta harflarda yozing, aks holda kichik harflarda yozing.
+
+
+INPUT            INPUT
+HoUse            maTRIx
+OUTPUT           OUTPUT
+house            matrix
