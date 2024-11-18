@@ -1,0 +1,33 @@
+Bitlandning klassik dasturlash tili Bit++ deb nomlanadi. Bu til o'zgacha va murakkabdir.
+
+Til shunday o'zgachaki, u faqat bitta o'zgaruvchiga ega bo'lib, u x deb ataladi. Shuningdek, ikkita amal mavjud:
+
+++ amali o'zgaruvchi x qiymatini 1 ga oshiradi.
+-- amali o'zgaruvchi x qiymatini 1 ga kamaytiradi.
+Bit++ tilidagi bayonot bitta amal va x o'zgaruvchisidan iborat ketma-ketlikdir. 
+Bayonotda bo'sh joylar yo'q, ya'ni u faqat «+», «-», «X» belgilarini o'z ichiga olishi mumkin. 
+Bayonotni bajarish undagi amallarni qo'llashni anglatadi.
+
+Dastur Bit++ tilidagi bayonotlar ketma-ketligidan iborat bo'lib, ularning har biri bajarilishi kerak. 
+Dastur bajarilishi esa undagi barcha bayonotlarni bajarishni anglatadi.
+
+Sizga Bit++ tilida yozilgan dastur berilgan. x ning boshlang'ich qiymati 0 ga teng. 
+Dastur bajarilganidan keyin x ning yakuniy qiymatini toping (dastur bajarilgandan keyingi qiymati).
+
+INPUT
+Birinchi qatorda yagona butun son n (1 ≤ n ≤ 150) — dasturdagi bayonotlar soni berilgan.
+
+Keyingi n qatorlarning har birida bitta bayonot keltirilgan. Har bir bayonotda aniq bitta amal (++ yoki --) va aniq bitta x o'zgaruvchisi mavjud. 
+Shunday qilib, bo'sh bayonotlar yo'q. Amal va o'zgaruvchi istalgan tartibda yozilishi mumkin.
+
+OUTPUT
+Yagona butun sonni — x ning yakuniy qiymatini chop eting.
+
+MISOL UCHUN
+INPUT          INPUT
+2              3
+++x            ++x
+X--            ++X
+               --x
+OUTPUT         OUTPUT
+0              1
