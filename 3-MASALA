@@ -1,0 +1,18 @@
+Fil o‘z do‘stini ziyorat qilishga qaror qildi. 
+
+Ma’lum bo‘lishicha, filning uyi koordinata chizig‘ida 0 nuqtada, do‘stining uyi esa x nuqtada joylashgan (x > 0). 
+Bir qadamda fil 1, 2, 3, 4 yoki 5 pozitsiyaga oldinga siljishi mumkin. 
+
+Fil do‘stining uyiga yetib borishi uchun zarur bo‘lgan minimal qadamlar sonini aniqlang.
+
+INPUT
+Kiritish satrining birinchi qatorida x butun soni berilgan (1 ≤ x ≤ 1 000 000) — do‘stining uyi koordinatasi.
+
+OUTPUT
+Filning 0 nuqtadan x nuqtaga yetib borishi uchun kerak bo‘lgan minimal qadamlar sonini chop eting.
+
+MISOL UCHUN
+INPUT              INPUT
+12                 36
+OUTPUT             OUTPUT
+3                  8
